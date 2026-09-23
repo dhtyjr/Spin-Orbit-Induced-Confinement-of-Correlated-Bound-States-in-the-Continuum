@@ -2,7 +2,7 @@
 
 This repository contains the code and experimental data associated with the manuscript
 
-**Emergence of Doublon Bound States in the Continuum via Spin-Orbit Coupling**
+**Spin-Orbit Induced Confinement of Correlated Bound States in the Continuum**
 
 The repository is organized as follows:
 
